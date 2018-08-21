@@ -1,9 +1,9 @@
 {
   "packages": [
     {
-      "name": "ATmega328PB-with-Bootloader",
+      "name": "ATmega328PB-incl-Bootloader",
       "maintainer": "dprinz4",
-      "websiteURL": "https://github.com/dprinz4/ATmega328PB-Nano-Clone-with-Bootloader/",
+      "websiteURL": "https://github.com/dprinz4/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/",
       "email": "",
       "help": {
         "online": ""
@@ -17,8 +17,8 @@
           "help": {
 	        "online": ""
           },
-          "url": "https://github.com/dprinz4/ATmega328PB-Nano-Clone-with-Bootloader/raw/master/atmega328pb-bootloader.zip",
-          "archiveFileName": "atmega328pb-bootloader.zip",
+          "url": "https://github.com/dprinz4/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/raw/master/atmega328pb-with-bootloader.zip",
+          "archiveFileName": "atmega328pb-with-bootloader.zip",
 
 
 
