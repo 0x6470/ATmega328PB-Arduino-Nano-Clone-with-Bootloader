@@ -22,8 +22,8 @@
 
 
 
-          "checksum": "SHA-256:4be8b7f0dca2afb5561d4c15aad07a253a2e56da50205267d968f82994c00364",
-          "size": "81781",
+          "checksum": "SHA-256:bf84b72adc83718a4759f4a7f8e1d888cb09ed8f32dfa4c8ffc73cfc2b92fd4f",
+          "size": "82687",
 
           "boards": [
             {"name": "ATmega328PB"}
