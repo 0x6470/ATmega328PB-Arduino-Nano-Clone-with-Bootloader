@@ -8,5 +8,5 @@ https://github.com/dprinz4/ATmega328PB-Nano-Clone-with-Bootloader/raw/master/pac
 ```
 If this fails, you might download the zip file and unzip it to:
 ```
-C:\Users\<Your Username>\AppData\Local\Arduino\packages\ATmega328PB w/ Bootloader\hardware
+C:\Users\<Your Username>\AppData\Local\Arduino\packages\ATmega328PB-with-Bootloader\hardware
 ```
