@@ -1,4 +1,4 @@
-# ATmega328PB Nano Clone Bootloader
+# ATmega328PB Nano Clone config incl. Bootloader
 The bootloader is a modified version of Optiboot (https://github.com/Optiboot/optiboot).
 
 ## How to install
