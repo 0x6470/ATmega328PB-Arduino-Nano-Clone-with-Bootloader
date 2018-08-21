@@ -1,0 +1,43 @@
+{
+  "packages": [
+    {
+      "name": "ATmega328PB Bootloader",
+      "maintainer": "dprinz4",
+      "websiteURL": "https://github.com/dprinz4/---",
+      "email": "",
+      "help": {
+        "online": ""
+      },
+      "platforms": [
+        {
+          "name": "ATmega328PB",
+          "architecture": "avr",
+          "version": "0.1",
+          "category": "ATmega328PB",
+          "help": {
+	        "online": ""
+          },
+          "url": "---.zip",
+          "archiveFileName": "",
+
+
+
+          "checksum": "SHA-256:",
+          "size": "",
+
+          "boards": [
+            {"name": "ATmega328PB"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        }
+      ],
+      "tools": []
+    }
+  ]
+}
