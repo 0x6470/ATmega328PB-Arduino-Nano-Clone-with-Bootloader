@@ -6,6 +6,8 @@ Add the following URL to the Arduino Board Manager (**File > Preferences > Addit
 ```
 https://github.com/dprinz4/ATmega328PB-Nano-Clone-with-Bootloader/raw/master/package_m328pb_index.json
 ```
+Then search in the Board Manager for **ATmega328PB** and click install.
+
 If this fails, you might download the zip file and unzip it to:
 ```
 C:\Users\<Your Username>\AppData\Local\Arduino\packages\ATmega328PB-with-Bootloader\hardware
