@@ -4,7 +4,7 @@ The bootloader is a modified version of Optiboot (https://github.com/Optiboot/op
 ## How to install
 Add the following URL to the Arduino Board Manager (**File > Preferences > Additional Boards Manager URLs**)
 ```
-https://github.com/0x6470/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/raw/master/package_m328pb_index.json
+https://raw.githubusercontent.com/0x6470/ATmega328PB-Arduino-Nano-Clone-with-Bootloader/master/package_m328pb_index.json
 ```
 Then search in the Board Manager for **ATmega328PB** and click install.
 
